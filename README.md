@@ -1,4 +1,6 @@
-Hey there! 👋 I'm a data-driven researcher. I work at the intersection of Information Systems and Public Policy.
+Hey there! 👋 
+
+I'm a data-driven researcher. I work at the intersection of Information Systems and Public Policy.
 
 If a policy problem can be solved with data, chances are I'm already building a solution for it.
 
