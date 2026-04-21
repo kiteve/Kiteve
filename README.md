@@ -8,7 +8,7 @@ My main stack is Python, R, and Stata, with SQL and React in the mix. My go-to t
 
 I've got a growing body of research, and my research explores political behavior, social impact, and economic analysis.
 
-I've pinned a number of repositories I'm proud of, but my favorite is https://github.com/kiteve/Sejong-bus-analysis
+I've  a number of repositories I'm proud of, but my favorite is https://github.com/kiteve/Sejong-bus-analysis
 
 **Fun Facts:**
 - 🤖 Machine learning is my favorite problem-solving tool
